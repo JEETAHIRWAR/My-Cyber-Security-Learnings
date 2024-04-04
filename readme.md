@@ -1,6 +1,6 @@
-<p align="center" style="font-size:36px; color:#C6EBC5;">
-  <strong>Course Chapter Mapping 🧑‍💻</strong>
-</p>
+<div align="center" style="font-size:36px; color:#C6EBC5;">
+  <h1>Course Chapter Mapping 🧑‍💻</h1>
+</div>
 
 ---
 ### [CHAPTER 01: **SECURITY PRINCIPLES**](./Chapter_01.md)
