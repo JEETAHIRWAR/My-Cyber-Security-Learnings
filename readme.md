@@ -1,4 +1,7 @@
-> # Course Chapter Mapping 🧑‍💻
+<p align="center" style="font-size:28px; color:#C0D6E8;">
+  <strong>Course Chapter Mapping 🧑‍💻</strong>
+</p>
+
 ---
 ### [CHAPTER 01: **SECURITY PRINCIPLES**](./Chapter_01.md)
 > &rarr; `[1.1] Understand the security concepts of information assurance`
