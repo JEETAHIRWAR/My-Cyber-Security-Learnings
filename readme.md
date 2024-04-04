@@ -1,13 +1,13 @@
 > # Course Chapter Mapping 🧑‍💻
 ---
 ### [CHAPTER 01: **SECURITY PRINCIPLES**](./Chapter_01.md)
-- &rarr; **[1.1]** Understand the security concepts of information assurance
-  - [1.1.1] Confidentiality
-  - [1.1.2] Integrity
-  - [1.1.3] Availability
-  - [1.1.4] Authentication (e.g., methods of authentication, multi-factor authentication (MFA))
-  - [1.1.5] Non-repudiation
-  - [1.1.6] Privacy
+> &rarr; &rarr; `[1.1] Understand the security concepts of information assurance`
+>  - [1.1.1] Confidentiality
+>  - [1.1.2] Integrity
+>  - [1.1.3] Availability
+>  - [1.1.4] Authentication (e.g., methods of authentication, multi-factor authentication (MFA))
+>  - [1.1.5] Non-repudiation
+>  - [1.1.6] Privacy
 
 - &rarr; **[1.2]** Understand the risk management process
   - [1.2.1] Risk Management (e.g., risk priorities, risk tolerance)
