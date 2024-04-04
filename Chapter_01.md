@@ -46,4 +46,4 @@ Another term is ***sensitivity***, which measures how important information is a
 >##### [ ✒️ explain in Hindi ]
 > `Ek aur term hai sensitivity, jo batata hai ki jaankari kitni mahatvapurn hai aur uski kitni suraksha ki zaroorat hai. Sensitive information woh hoti hai jo, agar bahar chali jaaye ya badal di jaaye, kisi vyakti ya company ko nuksan pahuncha sakti hai. Kabhi-kabhi sensitivity yeh bhi batati hai ki kitna nuksan kisi vyakti ya group ko ho sakta hai jo us jaankari ka maalik nahi hai.`
 
-# [CIA](./CIA.png)
+![Screenshot 2024-04-04 165546](https://github.com/JEETAHIRWAR/My-Cyber-Security-Learnings/assets/102626329/f69208cb-c833-4c48-b573-008e39b2b177)
