@@ -1,4 +1,4 @@
-<p align="center" style="font-size:28px; color:#C0D6E8;">
+<p align="center" style="font-size:36px; color:#C6EBC5;">
   <strong>Course Chapter Mapping 🧑‍💻</strong>
 </p>
 
