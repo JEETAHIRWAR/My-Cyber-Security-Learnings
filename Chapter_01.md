@@ -46,7 +46,39 @@ Another term is ***sensitivity***, which measures how important information is a
 >##### [ ✒️ explain in Hindi ]
 > `Ek aur term hai sensitivity, jo batata hai ki jaankari kitni mahatvapurn hai aur uski kitni suraksha ki zaroorat hai. Sensitive information woh hoti hai jo, agar bahar chali jaaye ya badal di jaaye, kisi vyakti ya company ko nuksan pahuncha sakti hai. Kabhi-kabhi sensitivity yeh bhi batati hai ki kitna nuksan kisi vyakti ya group ko ho sakta hai jo us jaankari ka maalik nahi hai.`
 
-<<<<<<< HEAD
-=======
-![Screenshot 2024-04-04 165546](https://github.com/JEETAHIRWAR/My-Cyber-Security-Learnings/assets/102626329/f69208cb-c833-4c48-b573-008e39b2b177)
->>>>>>> 5b193cd440b6adcae6ad990d981daab4639a39bd
+#### 02. Integrity:
+
+***Integrity*** means things are whole, complete, and accurate. It applies to:
+
+>##### [ ✒️ explain in Hindi ]
+> `Integrity ka matlab hai ki cheezein poori, complete aur sahi hain. Yeh cheezon mein apply hota hai:`
+
+- Information or data
+- Systems and processes used in business
+- Organizations
+- People and their actions
+
+***Data integrity*** ensures data hasn't been tampered with. It means protecting data from unauthorized changes, errors, or loss during storage, processing, and transmission.
+
+>##### [ ✒️ explain in Hindi ]
+> `Data integrity yeh ensure karta hai ki data mein kisi ne bina ijazat ke koi badlav nahi kiya hai. Iska matlab hai data ko unauthorized changes, errors, ya information loss se bachana storage, processing aur transmission ke dauraan.`
+
+Information must be accurate and consistent across systems. This consistency ensures info is correct everywhere it's stored or shown.
+
+>##### [ ✒️ explain in Hindi ]
+> `Jaankari ko sahi aur consistent rakhna zaroori hai. Yeh consistency yeh ensure karta hai ki jaankari har jagah sahi dhang se store aur dikhayi ja rahi hai.`
+
+***System integrity*** means systems operate as they should. It's about maintaining a known good configuration and expected function while processing data.
+
+>##### [ ✒️ explain in Hindi ]
+> `System integrity ka matlab hai ki systems waisa hi kaam kare jaisa unka hona chahiye. Yeh data ko process karte waqt ek known good configuration aur expected function maintain karna hai.`
+
+To ensure integrity, we start by understanding the current state of data or a system, creating a ***baseline***. Then, we compare this baseline with the current state to check if anything's changed. If they match, integrity's intact; if not, it's compromised.
+
+>##### [ ✒️ explain in Hindi ]
+> `Integrity ko ensure karne ke liye, hum current state ko samajhte hain, aur ek baseline create karte hain. Phir, hum current state ko baseline ke saath compare karte hain ki kuch badla hai ya nahi. Agar match hota hai, toh integrity hai; agar nahi, toh compromised hai.`
+
+Integrity is vital for trustworthy information and systems, often dictated by laws or the organization's needs for reliable data.
+
+>##### [ ✒️ explain in Hindi ]
+> `Integrity vishwasniya jaankari aur systems ke liye mahatvapurn hai, aur yeh aksar kanoon ya sangathan ki zarooraton ke mutabiq hota hai.`
