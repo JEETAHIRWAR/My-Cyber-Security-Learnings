@@ -356,22 +356,22 @@ To lower the risk, you might hire experts or use security controls. If you can't
 >##### [ ✒️ explain in Hindi ]
 > `Risk ko kam karne ke liye, tum experts ko hire kar sakte ho ya security controls ka istemal kar sakte ho. Agar tum risk ko handle nahi kar paate, toh tum risky situations se bach sakte ho ya insurance le sakte ho jo tumhare nuksan ko cover kare. Jab tumne risk ko kam ya transfer karne ke liye jo kuch kiya hai, phir tum jo bache hue risk ko accept kar sakte ho.`
 
-# Risk Management Question
+### Risk Management Question
 
-When a company chooses to ignore a risk and proceed with a risky activity, which treatment is being applied by default? 
-
-A. Mitigation  
-   - Incorrect. Mitigation involves taking action to remove or lessen the effects of risks.
-
-B. Avoidance  
-   - Incorrect. Avoidance is halting the risky activity.
-
-C. Acceptance  
-   - Correct. Acceptance is choosing to ignore a risk and proceed with a risky activity.
-
-D. Transference  
-   - Incorrect. Transference is shifting the risk via legal agreement, usually to another party such as a service or insurance provider.
-
+>When a company chooses to ignore a risk and >proceed with a risky activity, which treatment >is being applied by default? 
+>
+>A. Mitigation  
+>   - Incorrect. Mitigation involves taking >action to remove or lessen the effects of risks.
+>
+>B. Avoidance  
+>   - Incorrect. Avoidance is halting the risky >activity.
+>
+>C. Acceptance  
+>   - Correct. Acceptance is choosing to ignore a >risk and proceed with a risky activity.
+>
+>D. Transference  
+>   - Incorrect. Transference is shifting the >risk via >legal agreement, usually to another >party such as a >service or insurance provider.
+>
 
 ### Riya's Rise: Navigating the Security Operations Center
 
@@ -420,5 +420,89 @@ D. Transference
 On a personal level, imagine you leave your wallet in a public place and someone steals your cash. It’s wise not to carry large sums of money or keep all your cash in one place to avoid this risk. While most banks cover fraudulent transactions, it can still be a hassle to deal with frozen accounts or replace stolen cash. To minimize this risk, consider using digital payment methods or keeping only a small amount of cash on hand. Another example of risk management is when you plan a picnic. If you're worried about rain ruining your outing, you might bring along a waterproof mat or choose a backup indoor location. Similarly, buying travel insurance for a trip can help cover costs if unexpected events like flight cancellations occur. These measures help transfer the risk of financial loss from you to the insurance provider, providing peace of mind in case of unforeseen circumstances.
 
 >##### [ ✒️ explain in Hindi ]
-> ``
+> `Apne vyaktigat star par, ek udaharan mein ek khatra aur uske asar ka udaharan hain aapke credit card par anathorized karane ke jurm. Yeh achha vichar nahin hai ki aap apne credit jaankari ko apne phone mein ya web browser par store karein, chahe vah online shopping ke liye suvidhajanak kyun na ho. Adhikansh bank anuthorized kharidariyon ke liye aapko kar uchit nehin karte hain, lekin yah aapke khate ko jab aap use kar rahe hote hain band kar sakta hai, ya phir vah card jise doosre log use kar rahe hain ko badalna ya uske sath judi kisi bhi sancriyaton ya bill ko update karne mein pareshani ho sakti hai. Agar aap pehle se ek khatra ka pata lagate hain, to aap ise bahutadhik suraksha paridarshak jaise anugatva ko jodkar kam kar sakte hain. Adhikansh bank websites aapke khate tak pahunchne par multifactor pramanikaran set karne ko zaroori ya kam se kam protsahit karte hain, isliye aapko ek username aur password ki avashyakta hoti hai aur sath hi aapke email ya cellphone par ek code bheja jata hai. Ek aur udaharan risk ko sambhalne ka yeh hai jab aap ek chhutti ka yojana banate hain. Maan lijiye, aap ek Caribbean cruise ki soch rahe hain jahan mausam ka prabhav ho sakta hai aur aapka yatra radd ho sakta hai. Is mamle mein, aap yatra bima kharidate hain risk ko transfer karne ke liye, taaki aap apne pahle se bhugtanit rashi aur jama rashi ko khoye bina rahein agar kuch aisa hota hai jo yatra ko rokta hai. Doosre prakar ke bima bhi risk ko transfer karne ka tareeka hain. Agar aapko apne accident ke kharchon se chinta hai, to aap kuch aur health care coverage kharid sakte hain. Agar aapko pehchan ki chori se chinta hai, to kuch companies aapki pehchan ko prabandhit karne ke liye ek bima policy offer karte hain. Ye companies apne aap mein ek prakar ka arthik khatra prabandhan mein shamil hain, jo aapke pramium bhugtan ya subscription bhugtan ka aakalan karte hain, ki vah apko dawa karne par kitni bhugtan karenge.`
+
+## Risk Priorities
+
+When we're dealing with risks, it's important to figure out which ones are most important to focus on. This involves looking at how likely something bad might happen and how big the impact would be if it did.
+
+>##### [ ✒️ explain in Hindi ]
+>`Jab hum risks ke saath deal karte hain, toh sabse zaroori hota hai ki hume decide karna hota hai ki kaunse risks ko sabse pehle focus karna chahiye. Ismein hum dekhte hain ki kuch bura hone ki kitni sambhavna hai aur agar woh ho bhi gaya toh uska kya asar hoga.`
+
+One way to do this is by using a risk matrix, which is like a chart that helps us see which risks are most urgent. Imagine the matrix has two axes: one for how likely something is to happen, and the other for how bad the consequences would be if it did happen.
+
+>##### [ ✒️ explain in Hindi ]
+>`Ek tareeka hai risk matrix ka istemal karna, jo ek chart hai jo humein dikhata hai ki kaunse risks sabse urgent hain. Socho ye matrix do axis par based hai: ek jo bataata hai ki kisi bura hone ki kya sambhavna hai, aur doosra jo bataata hai ki agar woh ghatna ghat gayi toh uska kya nuksan hoga.`
+
+For example, if there's a small chance of something bad happening and even if it did, it wouldn't cause much trouble, it's low priority. But if there's a big chance of something really bad happening, that's high priority.
+
+>##### [ ✒️ explain in Hindi ]
+>`For example, agar kisi bura hone ki chhoti sambhavna hai aur agar woh ghatna bhi ho gayi toh zyada nuksan nahi hoga, toh woh low priority hota hai. Lekin agar kisi bada bura hone ki zyada sambhavna hai, toh woh high priority hota hai.`
+
+By using this matrix, we can speak the same language with our team and with management, making it easier to decide what risks we need to deal with first. This decision might depend on what's most important for the business, how much it would cost to fix the risk, or how much we could lose if the bad thing actually happens.
+
+>##### [ ✒️ explain in Hindi ]
+> `Is matrix ka istemal karke hum apne team aur management ke saath ek hi bhaasha mein baat kar sakte hain, jisse humein asani hoti hai decide karna ki humein sabse pehle kis risk ko handle karna chahiye. Ye decision business ke liye sabse important kya hai, risk ko theek karne mein kitna kharcha aayega, ya phir agar bura ho gaya toh hum kitna nuksan uthayenge, is par depend kar sakta hai.`
+
+## Decision Making Based on Risk Priorities
+
+When organizations make decisions about risks, they have to think about how likely something bad might happen and how bad the consequences could be. They also need to consider how much risk they're willing to take.
+
+>##### [ ✒️ explain in Hindi ]
+>`Jab organizations risk ke baare mein decisions lete hain, toh unhe sonchna padta hai ki kisi bura hone ki kitni sambhavna hai aur uska asar kitna bura ho sakta hai. Unhe yeh bhi dekhna padta hai ki woh kitna risk lena chahte hain.`
+
+For example, a company in Hawaii worries more about volcanic eruptions, while a company in Chicago plans for blizzards. This depends on where they are and what kind of risks are common there.
+
+>##### [ ✒️ explain in Hindi ]
+>`For example, Hawaii mein ek company ko zyada chinta hoti hai volcanic eruptions ki, jabki Chicago mein ek company ko snowstorms ki planning karni hoti hai. Ye unke location aur wahan ke aam risks par depend karta hai.`
+
+Deciding how much risk is okay is usually the job of the top bosses, like the executive team and the board of directors. If a company decides to ignore or accept a risk, like letting workers be around asbestos without protection, it could lead to big problems, like getting sued for a lot of money.
+
+>##### [ ✒️ explain in Hindi ]
+>`Risk ko kitna sahan kiya ja sakta hai, ye usually top bosses jaise executive team aur board of directors ka kaam hota hai. Agar koi company risk ko ignore ya accept kar leti hai, jaise ki workers ko asbestos ke aaspaas bina protection ke kaam karne deti hai, toh yeh badi pareshaniyaan khadi kar sakti hai, jaise ki bade paise ke liye kisi se maamla ho jaana.`
+
+## Risk Tolerance
+
+Risk tolerance is like how much risk a company is okay with. Do they like taking risks or do they prefer playing it safe? Different parts of the company might have different feelings about what risks are okay and what risks aren't.
+
+>##### [ ✒️ explain in Hindi ]
+>`Risk tolerance ka matlab hai ki company ko kitna risk lena sahi samjha jata hai. Kya unhe risk lena pasand hai ya fir wo usse bachna chahte hain? Company ke alag-alag hisson mein alag alag logon ka alag alag nazariya hota hai ki kaunsa risk sahi hai aur kaunsa nahi.`
+
+Understanding how the big bosses feel about risks is where it all starts. They're the ones who decide what level of risk is okay for the company. Security folks then try to keep the risks within this limit.
+
+>##### [ ✒️ explain in Hindi ]
+>`Risk ke baare mein top bosses ka kya khayal hai, yeh sabse important hota hai. Wo log decide karte hain ki company ke liye kitna risk sahi hai. Security experts phir uss limit mein risk ko control karne ki koshish karte hain.`
+
+Sometimes, where a company is located affects how much risk they're willing to take. For example, a company in Iceland knows they might have to deal with volcano problems, so they plan for that. If they're far from where a volcano might blow up, they have less risk than someone right in the danger zone. Similarly, if power cuts happen a lot in an area, a company might invest in backup generators to keep things running smoothly during blackouts.
+
+>##### [ ✒️ explain in Hindi ]
+>`Kabhi kabhi, company ki jagah unke rehne ke sthal par bhi risk tolerance ko affect karta hai. For example, Iceland mein kisi company ko volcano ki problem ka samna karna pad sakta hai, isliye wo uske liye tayyari karte hain. Agar volcano se door hain, toh unka risk kam hota hai. Waise hi, agar kisi area mein power cut aksar hota hai, toh company backup generators lagati hai taaki power cut ke time kaam chalu rahe.`
+
+So, knowing what risks are okay and planning for them is a big part of how companies stay safe and keep things running smoothly. 
+
+>##### [ ✒️ explain in Hindi ]
+>`Toh, yeh jaankar ki kaunse risks sahi hain aur unke liye planning karna, company ke liye safe rehne aur kaam ko aaram se chalane ka ek bada hissa hota hai.`
+
+## Risk Tolerance Drives Decision Making
+
+Here are a few examples of how risk tolerance can drive decision making for organizations.
+
+• An organization is required to build a bid package to gain a contract. The time and effort of personnel building a bid package will cost the organization $10,000 USD. If the organization wins the contract, the contract pays $2,000,000 USD. The organization decides to accept the risk of losing the cost of the bid package, because the benefit of winning the contract is appealing. The risk of losing the bid (and the cost of building the bid package) is within the organization’s risk threshold.
+
+>##### [ ✒️ explain in Hindi ]
+>`Ek organization ko ek contract jeetne ke liye bid package banana hai. Bid package banane mein lagne wale samay aur mehnat se organization ko $10,000 USD ka kharcha hoga. Agar organization contract jeet leti hai, toh contract $2,000,000 USD ka paisa dega. Organization decide karta hai ki bid package ka kharcha haarne ka risk lenge, kyunki contract jeetne ka fayda bahut hain. Bid haarne ka risk (aur bid package banana ka kharcha) organization ke risk threshold ke andar hai.`
+
+• A trauma center has three critical-care units where patients are provided life-sustaining services (breathing and heart activity) through the use of machines. Inactivity of these machines could mean that people will die. The trauma center has zero tolerance for power failure, so creates redundant emergency power supplies, through the use of multiple utility power providers, battery backup, and multiple generators with secure fuel supplies and solid contracts with fuel providers to deliver additional fuel during emergency situations.
+
+>##### [ ✒️ explain in Hindi ]
+>` Ek trauma center mein teen critical-care units hain jahan patients ko machines ke istemal se life-sustaining services (saans aur dil ki gati) di jaati hai. In machines ka kaam na karna kisi ki jaan ka sawaal ban sakta hai. Trauma center ko power failure ke liye zero tolerance hai, isliye wo multiple utility power providers, battery backup, aur multiple generators ka istemal karke redundant emergency power supplies bana leta hai, jisse secure fuel supplies aur fuel providers ke saath solid contracts hote hain taaki emergency situations mein additional fuel deliver kiya ja sake.`
+
+• Sarah and Mike think they can build a business that is profitable and enjoyable; they decide to quit their jobs and start the business together. They tolerate the risk that their business might fail because the reward they perceive is significant.
+
+>##### [ ✒️ explain in Hindi ]
+>`Priya aur Rohan ko lagta hai ki woh ek business build kar sakte hain jo profitable aur enjoyable hoga; unhone apne jobs chhodkar ek saath business start karne ka faisla kiya. Unhe ye risk tolerate karna padega ki unka business fail ho sakta hai, kyunki unhe perceive ki gayi reward bahut mahatvapurna lagti hai.`
+
+
+
+
 
