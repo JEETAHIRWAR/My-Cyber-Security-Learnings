@@ -119,7 +119,7 @@ Integrity is vital for trustworthy information and systems, often dictated by la
 
 >In conclusion, the CIA triad plays a vital role in ensuring the security and reliability of information and systems in the real world. By prioritizing confidentiality, integrity, and availability, organizations can mitigate risks and protect against potential threats.
 
-# ***[1.1.4] Authentication (e.g., methods of authentication, multi-factor authentication (MFA))***
+## ***[1.1.4] Authentication (e.g., methods of authentication, multi-factor authentication (MFA))***
 ## Authentication 
 Authentication is the process of confirming that a user is who they claim to be. In simpler terms, it's about proving someone's identity.
 
@@ -201,14 +201,14 @@ And now, we're also using biometrics, like fingerprints or facial recognition, t
 >##### [ ✒️ explain in Hindi ]
 >`Aur ab, hum biometrics ka bhi istemal kar rahe hain, jaise ki fingerprints ya facial recognition, apni pehchaan ko saabit karne ke liye. Yeh authentication process mein aur bhi ek security layer add karta hai.`
 
-### ***[1.1.5] Non-repudiation***
+## ***[1.1.5] Non-repudiation***
 ### Non-repudiation
 Non-repudiation means you can't deny something you did. In e-commerce and electronic transactions, it's crucial to trust that people won't lie about their actions, like making a purchase and then saying they didn't. Non-repudiation methods ensure that everyone is accountable for what they do.
 
 >##### [ ✒️ explain in Hindi ]
 >`Non-repudiation ka matlab hai ki aap apne kiye gaye kaam ko inkaar nahi kar sakte. E-commerce aur electronic transactions mein, logon par bharosa karna zaroori hai ki woh apne kiye gaye kaamon ka jhoot nahi bolenge, jaise ki kharidari karke baad mein kehna ki woh nahi kiya. Non-repudiation methods yeh ensure karte hain ki har koi apne kiye gaye kaamon ke liye zimmedar hai.`
 
-### ***[1.1.6] Privacy***
+## ***[1.1.6] Privacy***
 ### Privacy
 Privacy is about having control over who gets your personal information. While security and privacy both focus on protecting personal data, privacy is specifically about controlling how your information is shared. With more data being collected and stored digitally, there's a growing need for privacy laws and compliance. Laws like the **General Data Protection Regulation (GDPR)** in Europe and state regulations in the US set rules for how companies handle personal data. These laws apply to any organization, regardless of where they're based, if they handle data from people in that region. Making sure companies follow these laws is important to avoid penalties for mishandling personal information.
 
@@ -281,7 +281,7 @@ When looking at an organization's weaknesses, the security team also considers h
 >##### [ ✒️ explain in Hindi ]
 >`Jab ek organization ki kamzoriyon ko dekha jata hai, toh suraksha team ko yeh bhi dekhna padta hai ki un kamzoriyon ko exploit hone ki kitni sambhavna hai. Likelihood yeh batata hai ki ek threat ek vulnerability ka faayda uthane ki kitni sambhavna hai. Woh bhi sochte hain ki agar ek threat sach mein hoti hai, toh kya ho sakta hai. Impact yeh batata hai ki info ka disclose ya lost hone se kitna nuksan ho sakta hai. 👉For example, agar ek pickpocket aapka paisa chura leta hai, toh kya aap apna trip pura kar paoge? Aur agar aapko chot lag jaati hai aur medical help ki zarurat padti hai, toh kya hoga? Impact sirf uss waqt hi nahi hota.`
 
-
+## ***[1.2.2] Risk identification, assessment and treatment***
 ## Risk Identification
 
 Identifying risks is like looking out for potential problems, whether it's avoiding traffic on the street or noticing loose wires at your desk. In cybersecurity, it's an ongoing process of finding different risks, understanding them, and figuring out how they could disrupt the organization.
@@ -551,5 +551,213 @@ Here are a few examples of how risk tolerance can drive decision making for orga
 
 ***Ryan:*** That wraps up today's episode of Swimming with Safety. Tune in next week when we go parasailing with penguins.
 
+>[✒️ explain in Hindi]
+>`Podcast "Dolphins ke saath Snorkeling" mein Emily Evans ne apne dolphins ke saath snorkeling attraction ke baare mein baat ki. Unhone bataya ki yeh attraction adventurous hai aur kuch risk ke saath aata hai, lekin unka priority hamesha suraksha par hota hai. Unhone bataaya ki unke crew ko strict training di jaati hai aur wo mausam aur dolphins ke behaviour ko closely monitor karte hain. Agar koi participant darr jaata hai, toh unhe video feed se experience dekha ja sakta hai. Waivers aur insurance policies bhi risk ko manage karne mein madad karte hain. Emily ne bataaya ki unhone do saal tak koi major liability claim nahi dekha, lekin ek baar unki customer information breach hui thi, jiske baad unhone apne cybersecurity ko aur zyada improve kiya. Overall, podcast ne dikhaya ki kaise ek adventurous activity ko surakshit tareeke se manage kiya ja sakta hai.`
+
+# ***[1.3] Understand Security Controls***
+
+## What are Security Controls?
+
+Security controls are like the locks and alarms for your information system. They include things like passwords, firewalls, and rules about who can access what. These controls are put in place to keep your system and its information safe from hackers, leaks, or other problems. The goal is to lower the chances of something bad happening to a level we're okay with.
+
+>[✒️ explain in Hindi]
+>
+> `Security controls hain jaise aapke information system ke liye taale aur alarm. Isme passwords, firewalls, aur access ke rules shaamil hote hain. Ye controls lagaye jaate hain taki aapka system aur uski jaankari hackers, leaks ya anya samasyaon se surakshit rahe. Maksad yeh hai ki kuch bura hone ke chances ko hum bardasht kar sakein.`
+
+- ***Physical Controls***
+
+  - Security controls include physical measures like badge readers and building features to keep a place safe. They control who can enter and exit, like employees using badges to get in. These controls help manage who can access different areas and keep track of who's coming and going.
+
+>[✒️ explain in Hindi]
+>
+> `Security controls mein physical measures shaamil hote hain jaise badge readers aur building ke features jo ek jagah ko surakshit rakhte hain. Ye control karte hain ki kaun kahan enter aur exit kar sakta hai, jaise ki karmachari badge ka istemal karke andar ja sakte hain. Ye controls alag-alag areas tak ka access manage karte hain aur track rakhte hain ki kaun kahan ja raha hai.`
+
+## ***Technical Controls***
+
+Technical controls are like the digital locks and alarms for computer systems and networks. They help stop unauthorized access or misuse, detect if someone is trying to break in, and make sure applications and data stay secure. These controls can be settings in software or hardware that manage how the system works and who can use it. But, using them right needs careful planning and should match how security is managed in the organization.
+
+>[✒️ explain in Hindi]
+>
+>`Technical controls computer systems aur networks ke liye digital locks aur alarms ke jaise hote hain. Ye unauthorized access ya galat istemal ko rokte hain, agar koi kisi system mein ghusne ki koshish karta hai toh usko detect karte hain, aur ensure karte hain ki applications aur data surakshit rahein. Ye controls software ya hardware ke settings hote hain jo system kaise kaam kare aur kaun istemal kar sakein, ko manage karte hain. Lekin inse sahi tareeke se istemal karne ke liye dhyan se planning ki zaroorat hoti hai aur ye organization ke andar security ko kaise manage kiya jata hai, uske saath consistent hona chahiye.`
+
+
+> ## Questions and Answers
+> 
+> 1. **Question:** This can protect information in > a file cabinet from being viewed by unauthorized > persons (confidentiality) as well as keeping any > documents from being modified (integrity).
+> 
+>    **Answer:** Door Lock 
+> 
+> 2. **Question:** This one is abstract but could > be linked to availability, because the sooner it > works, the more data remains available.
+> 
+>    **Answer:** Fire Extinguisher
+> 
+> 3. **Question:** This can provide confidentiality > by protecting data from unauthorized access and > integrity from unauthorized changes. It could > even be stretched to provide availability if > shared emergency access to information is needed > by more than one person.
+> 
+>    **Answer:** Password Policy
+> 
+> 4. **Question:** This is usually associated with > integrity, to protect files from tampering or to > provide non-repudiation. It is also commonly used > to protect data in transit from prying eyes, so > it could be aiding confidentiality as well.
+> 
+>    **Answer:** Encryption
+> 
+> 5. **Question:** This protects availability by > ensuring continued access to systems during a > power outage.
+> 
+>    **Answer:** Generator
+> 
+> 6. **Question:** This would most generally be > associated with confidentiality and identity > management, but could be argued for all three, > the same as a password policy.
+> 
+>    **Answer:** Biometrics
+> 
+
+
+## Making Connections
+
+Let's look at some situations where the elements of the CIA Triad can be at risk. Imagine a scenario where a coworker shares their password. Joe gives his password to Joanne, who needs to access his work computer because he's sick. Later, Joanne gets fired, and her access is revoked, but she still knows Joe's password. Feeling angry, she uses Joe's credentials to mess with important files or accidentally introduces harmful software.
+
+>[✒️ explain in Hindi]
+>
+>`Chaliye dekhte hain kis tarah ke situations mein CIA Triad ke tatva khatre mein aa sakte hain. Imagine kijiye ek aise scenario ko jahan ek saathiyon ne apna password share kiya. Joe apna password Joanne ko deta hai, jo apne kaam ke computer mein access karne ke liye zaroorat hai kyunki woh bimar hai. Baad mein, Joanne ko naukri se nikal diya jaata hai, aur uska access revoke ho jaata hai, lekin uske paas abhi bhi Joe ka password hai. Gussa mehsoos karte hue, woh Joe ke credentials ka istemal karte hain zaroori files ke saath kuch gadbad karne ke liye ya bhool se nuksaandeh software ko daal dete hain.`
+
+Another example is when a remote worker leaves their laptop unlocked, and someone in their family downloads infected files, leading to a compromised computer. Natural disasters like power outages can also affect the Triad if backup systems fail, and improper fire suppression methods can destroy vital information.
+
+>[✒️ explain in Hindi]
+>
+>`Ek aur udaharan yeh hai jab ek door se kaam karne wala apna laptop unlock kar deta hai, aur uske parivaar ke koi bhi vyakti infected files download kar leta hai, jisse ek compromised computer ban jaata hai. Prakritik aapdaaye jaise bijli ka achanak se kat jaana bhi Triad par asar daal sakti hai agar backup systems fail ho jaayein, aur galat agni shant karan tareeke vital jaankari ko nuksaan pahuncha sakte hain.`
+
+These examples show why it's important to assess risks from technical, human, and environmental factors and put measures in place to protect information security and integrity.
+
+>[✒️ explain in Hindi]
+>
+>`Yeh udaharan dikhate hain ki kyun zaroori hai ki hum technical, insan aur paristhiti ke khatron ko mehsoos karein aur jaankari suraksha aur integrity ko bachane ke liye upay rakhein.`
+
+
+> ***[1.4] Understand the (ISC)2 Code of Ethics***
+
+
+
+### **Governance Elements**
+
+- **Purpose of Business/Organization**: Fulfill a purpose, guided by decisions, rules, and practices.
+
+>[✒️ explain in Hindi]
+>
+>`Vyavasay/Organization ka Uddeshya: Ek uddeshya ko pura karne ke liye nirnay liye jate hain, niyam aur vyavahar taiyar kiye jate hain.`
+
+- **Regulations**: Laws and regulations created by governments to enact public policy.
+
+>[✒️ explain in Hindi]
+>
+>`Niyam: Sarkar dvaara lok niti ko lagu karne ke liye banaye gaye kanoon aur niyam.`
+
+- **Standards**: Developed from regulations, providing a framework for policies and procedures.
+
+>[✒️ explain in Hindi]
+>
+>`Standard: Niyamo se viksit, jo nitiyon aur prakriyaon ke liye ek framework pradan karte hain.`
+
+- **Policies**: Guidance set by organizational governance (e.g., executive management) to ensure compliance with industry standards and regulations.
+
+>[✒️ explain in Hindi]
+>
+>`Nitiyan: Sangathanik shasan (jaise ki karyakari prabandhan) dwara nirdharit margadarshan, samarthan aur niyamon ka pradan.`
+
+- **Procedures**: Detailed steps supporting policies, facilitating task completion.
+
+>[✒️ explain in Hindi]
+>
+>`Prakriyaen: Nitiyon ko samarthan karne ke lie vistaar se kadam.`
+
+- **Relationships**:
+  - *Procedures* are detailed steps supporting *policies*.
+  - *Policies* guide activities to ensure compliance with *standards* and *regulations*.
+  - *Standards* provide a framework for implementing *policies* and *procedures*.
+  - *Regulations* are laws issued by governments, carrying financial penalties for noncompliance.
+
+>[✒️ explain in Hindi]
+>
+>`Sambandh:Prakriyaen nitiyon ko samarthan karne ke vistaarit kadam hote hain.`
+> 
+> `Nitiyan gatividhiyon ko margadarshan deti hain, vyavastha ke niyamon aur niyamon ke anurup.`
+>
+>`Standard nitiyon aur prakriyaon ko lagoo karne ke liye ek framework pradan karte hain.`
+>`Niyam sarkari kanoon hote hain, jinme ghair samanta par dand diya jata hai.`
+
+- **Flow**: Regulations -> Standards -> Policies -> Procedures
+
+
+## Regulations and Laws
+
+### Overview
+Regulations and laws are imposed by governments at various levels, including national, regional, and local. Compliance with these regulations is crucial for individuals and organizations to avoid fines and penalties.
+
+`Niyam aur kanoon sarkaron dvaara alag-alag staron par lagaye jaate hain, jaise rashtriya, kshetriya, aur sthaniya. In niyamon ka palan vyakto aur sangathanon ke liye jurm evam dand se bachne ke liye mahatvapurn hai.`
+
+### Examples
+
+#### 1. Health Insurance Portability and Accountability Act (HIPAA)
+- **Year**: 1996
+- **Jurisdiction**: United States
+- **Focus**: Protected Health Information (PHI)
+- **Penalties**: Fines and imprisonment for individuals and companies.
+- **Importance**: Ensures the confidentiality and security of health information.
+
+#### 2. General Data Protection Regulation (GDPR)
+- **Year**: Enacted by the European Union (EU)
+- **Focus**: Personally Identifiable Information (PII)
+- **Scope**: Applicable to EU citizens and residents, regardless of the company's location.
+- **Penalties**: Financial penalties for non-compliance.
+- **International Reach**: Extends beyond EU borders.
+- **Importance**: Protects individuals' privacy rights and imposes strict data handling regulations.
+
+### Considerations
+- **Multinational Organizations**: Subject to regulations across multiple jurisdictions.
+- **Compliance**: Important at all levels - national, regional, and local.
+- **Stringency**: Compliance with the most restrictive regulation is necessary.
+
+## Standards
+
+### Overview
+Organizations rely on various standards for their information systems security programs, serving as compliance documents and guidelines. Standards encompass a wide range of issues and ensure organizations operate with policies and procedures aligned with regulations and best practices.
+
+`Organizations apne jaankaari pranaali suraksha kaaryakram mein vibhinn maanakon ka upayog karte hain, jo samanvit dastavejon ke roop mein aur salahkaar ya margdarskak ke roop mein kaam karte hain. Maanak vyaktitva ek vyaapaak range ke mudde aur vicharon ko dhak lete hain aur ye ashaavadheen nitiyon aur prakriyaaon ke saath kaam karte hain jo niyamon aur vishvaasniye behtar prathiyon ko samarthan karte hain.`
+
+
+### Key Players
+
+#### 1. International Organization for Standardization (ISO)
+- **Focus**: Develops international standards on various technical subjects, including information systems, information security, and encryption.
+- **Process**: Solicits input from global experts before publishing standards.
+- **Accessibility**: ISO standards can be purchased online.
+
+#### 2. National Institute of Standards and Technology (NIST)
+- **Affiliation**: United States government agency under the Department of Commerce.
+- **Scope**: Publishes technical standards, particularly in information technology and security.
+- **Importance**: Many NIST standards are requirements for U.S. government agencies and are globally recognized.
+- **Accessibility**: NIST standards are freely available for download from their website.
+
+### Importance of Standards
+- **Interoperability**: Standards ensure compatibility and communication between computers globally.
+- **Internet Engineering Task Force (IETF)**: Develops communication protocol standards for global connectivity.
+- **Institute of Electrical and Electronics Engineers (IEEE)**: Sets standards for telecommunications, computer engineering, and related fields.
+
+
+## Policies
+
+### Overview
+- **Definition**: Policies are informed by applicable laws and outline which standards and guidelines an organization will adhere to.
+- **Scope**: While broad, policies provide context, strategic direction, and priorities without detailed instructions.
+- **Governance Role**: Used to moderate decision-making, ensure compliance, and guide the creation and implementation of other policies.
+
+### Levels of Policies
+- **High-Level Governance Policies**: Shape decision-making processes for senior executives.
+- **Organizational Behavior Policies**: Direct the behavior and activity of the entire organization towards specific or general goals.
+- **Functional Area Policies**: Cover areas like human resources management, finance, accounting, security, and asset protection.
+
+### Compliance and Development
+- **Compliance Requirement**: Policies might be imposed by laws, regulations, or contracts, necessitating the development of specific high-level policies.
+- **Documentation and Assessment**: High-level policies are documented and assessed for effective use by the organization.
+
+### Implementation
+- **Role**: Policies are implemented by people.
+- **Conversion to Procedures**: Policies need to be expanded into step-by-step instructions or procedures for practical implementation.
 
 
