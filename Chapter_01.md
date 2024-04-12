@@ -356,8 +356,8 @@ To lower the risk, you might hire experts or use security controls. If you can't
 >##### [ ✒️ explain in Hindi ]
 > `Risk ko kam karne ke liye, tum experts ko hire kar sakte ho ya security controls ka istemal kar sakte ho. Agar tum risk ko handle nahi kar paate, toh tum risky situations se bach sakte ho ya insurance le sakte ho jo tumhare nuksan ko cover kare. Jab tumne risk ko kam ya transfer karne ke liye jo kuch kiya hai, phir tum jo bache hue risk ko accept kar sakte ho.`
 
-### Risk Management Question
-
+>### Risk Management Question
+>
 >When a company chooses to ignore a risk and >proceed with a risky activity, which treatment >is being applied by default? 
 >
 >A. Mitigation  
@@ -502,7 +502,54 @@ Here are a few examples of how risk tolerance can drive decision making for orga
 >##### [ ✒️ explain in Hindi ]
 >`Priya aur Rohan ko lagta hai ki woh ek business build kar sakte hain jo profitable aur enjoyable hoga; unhone apne jobs chhodkar ek saath business start karne ka faisla kiya. Unhe ye risk tolerate karna padega ki unka business fail ho sakta hai, kyunki unhe perceive ki gayi reward bahut mahatvapurna lagti hai.`
 
+---
 
+## Podcast: Diving with Dolphins
+***Ryan:*** Welcome to Swimming with Safety. A podcast discussing adventurous endeavors and how they tackle risk. I'm Ryan Roberts and today I'm chatting with Emily Evans who operates the Diving with Dolphins attraction here in sunny Miami, Florida. Hi Emily, how are you today?
+
+***Emily:*** It's a splendid day for diving with dolphins in Florida, Ryan.
+
+***Ryan:*** Some might argue it's quite risky, wouldn't you agree? Potentially perilous, even.
+
+***Emily:*** Well, Ryan, everything in life carries some risk, from crossing the street to sharing personal information online. In our line of work, people swim alongside dolphins in the ocean. Naturally, there's risk involved. However, we prioritize safety and take extensive measures to ensure our attraction is as safe as possible, both for the participants and for our investors. The last thing we want is bad publicity or legal liabilities jeopardizing our livelihoods. Pardon the pun.
+
+***Ryan:*** No pun taken, but tell me more about how you mitigate the dangers of your venture. The dolphins must be trained or controlled in some way, right?
+
+***Emily:*** Actually, Ryan, these are completely wild dolphins. That's what makes the experience thrilling. And part of the thrill is the perceived danger.
+
+***Ryan:*** So it's just a perception?
+
+***Emily:*** Well, not entirely. Mostly.
+
+***Ryan:*** I'm not sure I follow. Is it risky or not?
+
+***Emily:*** Alright, alright. Let's acknowledge that there are inherent risks involved here, okay? If we weren't willing to embrace a little danger, we wouldn't be in this business, and customers wouldn't be signing up. Those who feel uneasy can opt out by not participating. We provide a video feed so they can still enjoy the experience vicariously. Additionally, we avoid unnecessary risks by refraining from going out in adverse weather conditions or when there's been notable dangerous dolphin behavior observed. We closely monitor both the weather and the dolphins' behavior to ensure the safety of our crew, customers, and equipment.
+
+***Ryan:*** So you only operate in ideal conditions. What other precautions do you take?
+
+***Emily:*** We minimize our risks by using sturdy equipment and conducting frequent tests. Our crew undergoes extensive training to adhere to safety protocols and Florida laws, along with federal safety regulations.
+
+***Ryan:*** What if something goes wrong despite all your precautions? Businesses often face lawsuits when accidents occur.
+
+***Emily:*** That's why all participants are required to sign waivers, mitigating our liability risk.
+
+***Ryan:*** Do people object to signing waivers?
+
+***Emily:*** Not really. This kind of risk management approach is quite common. Fine print accompanies almost everything we do, from downloading apps to traveling on planes or staying in hotels. Even at other attractions, like those operated by animated characters, the tickets include disclaimers in the fine print absolving the park of responsibility for theft or accidents. People are accustomed to accepting such terms whenever they engage in activities. Plus, we have insurance to handle any liability claims, allowing us to transfer our risk to another party.
+
+***Ryan:*** So you've been operating for a couple of years now.
+
+***Emily:*** Correct. About two years.
+
+***Ryan:*** Have you faced any liability claims during that time?
+
+***Emily:*** Not related to the dolphins. However, we did experience a data breach concerning our customer information. That was quite a headache. We've since outsourced our customer management system to a cloud-based third party, shifting the cybersecurity risk to them. We've learned that human errors pose a greater risk than marine creatures. The beach is safer than the breach, you could say.
+
+***Ryan:*** I don't think I would, but thank you Emily for sharing your insights with our listeners today. We've certainly gained valuable knowledge about dolphin-related safety concerns.
+
+***Emily:*** You're welcome, Ryan. Thank you for having me, and let me know when you're ready to dive with the dolphins.
+
+***Ryan:*** That wraps up today's episode of Swimming with Safety. Tune in next week when we go parasailing with penguins.
 
 
 
