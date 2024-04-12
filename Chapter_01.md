@@ -760,4 +760,15 @@ Organizations rely on various standards for their information systems security p
 - **Role**: Policies are implemented by people.
 - **Conversion to Procedures**: Policies need to be expanded into step-by-step instructions or procedures for practical implementation.
 
+## Procedures
+
+### Overview
+- **Definition**: Procedures detail explicit, repeatable activities required to accomplish specific tasks or sets of tasks.
+- **Purpose**: Provide supporting data, decision criteria, or explicit knowledge needed for task execution.
+- **Flexibility**: Address one-time or infrequent actions as well as common, regular occurrences.
+- **Measurement and Evaluation**: Establish criteria and methods to determine successful task completion.
+
+### Importance of Documentation and Training
+- **Documentation**: Properly documenting procedures is essential for organizational benefit.
+- **Training**: Personnel need training on locating and following procedures to derive maximum benefit.
 
