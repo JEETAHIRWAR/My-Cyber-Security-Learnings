@@ -37,3 +37,31 @@ body.dark {
 .title h3.dark {
     color: aliceblue;
 }
+
+.para.dark {
+    color: aliceblue;
+}
+
+.list ul li.dark {
+    color: aliceblue;
+}
+
+h4.dark {
+    color: aliceblue;
+}
+
+.aCard.dark {
+    background-color: #232323ec;
+}
+
+.aCard h2.dark {
+    color: aliceblue;
+}
+
+.aCard .smallPara.dark {
+    color: aliceblue;
+}
+
+.aCard .fa-road.dark {
+    color: aliceblue;
+}
