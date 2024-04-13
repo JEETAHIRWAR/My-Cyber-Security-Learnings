@@ -1,0 +1,39 @@
+body.dark {
+    background-color: #292c35;
+}
+
+.mainSection.dark {
+    /* background-color: #292c35; */
+    background-color: #232323ec;
+}
+
+
+.search-input.dark {
+    font-size: 14px;
+    background-image: url('./svgs/searchdark.svg');
+    background-size: 18px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: #111111b4;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: aliceblue;
+}
+
+.listgridView img.dark {
+    color: aliceblue;
+}
+
+.logo span.dark {
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+}
+
+.card.dark {
+    background-color: #232323ec;
+}
+
+.title h3.dark {
+    color: aliceblue;
+}

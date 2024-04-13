@@ -1,0 +1,31 @@
+/* For small devices (phones, 768px and below) */
+@media only screen and (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        /* Stack items vertically */
+        align-items: stretch;
+        /* Stretch items to full width */
+    }
+
+    .search {
+        margin-bottom: 20px;
+        /* Add margin between search input and logo/list-grid view */
+    }
+
+    .listgridView img {
+        margin-left: 0;
+        /* Remove margin between the icons */
+        margin-top: 10px;
+        /* Add margin between the icons vertically */
+    }
+}
+
+/* For medium devices (tablets, 768px - 992px) */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    /* Adjust styles as needed */
+}
+
+/* For large devices (desktops, 992px and above) */
+@media only screen and (min-width: 992px) {
+    /* Adjust styles as needed */
+}
