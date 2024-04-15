@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const listgridView = document.querySelector(".listgridView");
         const checkbox = document.getElementById("checkbox");
         const search = document.querySelector(".search-input");
-        const logo = document.querySelector(".logo span");
+        const logo = document.querySelectorAll(".logo, name, .fa-hat-cowboy");
         const card = document.querySelectorAll(".card");
         const title = document.querySelectorAll(".title h3");
         const para = document.querySelectorAll(".para");
@@ -16,6 +16,16 @@ document.addEventListener("DOMContentLoaded", function () {
         const h2 = document.querySelectorAll("h2");
         const smallPara = document.querySelectorAll(".smallPara");
         const faRoad = document.querySelectorAll(".fa-road");
+        const mainHeading = document.querySelectorAll(".mainHeading, h1, span");
+
+        mainHeading.forEach(element => {
+            element.classList.toggle("dark");
+        });
+
+
+        logo.forEach(logo => {
+            logo.classList.toggle("dark");
+        })
 
 
         faRoad.forEach(faRoad => {
@@ -57,7 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
         })
 
 
-        logo.classList.toggle("dark");
         mainSection.classList.toggle("dark");
         listgridView.classList.toggle("dark");
         checkbox.classList.toggle("dark");
@@ -140,22 +149,22 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-    const buttons = document.querySelectorAll('.button[data-show]');
-    buttons.forEach(button => {
-        button.addEventListener('click', function () {
-            const target = button.getAttribute('data-show');
-            // const target = this.getAttribute('data-show');
-            const hide = this.getAttribute('data-hide');
-            const container = document.querySelector(hide);
-            fetch(`/${target}`)
-                .then(response => response.text())
-                .then(data => {
-                    container.innerHTML = data;
-                    container.style.display = 'block';
-                })
-                .catch(error => console.error('Error fetching content:', error));
-        });
-    });
+    // const buttons = document.querySelectorAll('.button[data-show]');
+    // buttons.forEach(button => {
+    //     button.addEventListener('click', function () {
+    //         const target = button.getAttribute('data-show');
+    //         // const target = this.getAttribute('data-show');
+    //         const hide = this.getAttribute('data-hide');
+    //         const container = document.querySelector(hide);
+    //         fetch(`/${target}`)
+    //             .then(response => response.text())
+    //             .then(data => {
+    //                 container.innerHTML = data;
+    //                 container.style.display = 'block';
+    //             })
+    //             .catch(error => console.error('Error fetching content:', error));
+    //     });
+    // });
 
 
 

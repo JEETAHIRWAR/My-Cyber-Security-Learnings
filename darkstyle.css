@@ -5,6 +5,7 @@ body.dark {
 .mainSection.dark {
     /* background-color: #292c35; */
     background-color: #232323ec;
+    border: 3px solid #232323ec;
 }
 
 
@@ -18,14 +19,21 @@ body.dark {
 
 .search-input:focus {
     outline: none;
-    border-color: aliceblue;
+    /* border-color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 .listgridView img.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
-.logo span.dark {
+.logo .fa-hat-cowboy.dark {
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+}
+
+.logo .name.dark {
     color: aliceblue;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
 }
@@ -35,19 +43,23 @@ body.dark {
 }
 
 .title h3.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 .para.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 .list ul li.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 h4.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 .aCard.dark {
@@ -55,13 +67,27 @@ h4.dark {
 }
 
 .aCard h2.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 .aCard .smallPara.dark {
-    color: aliceblue;
+    /* color: aliceblue; */
+    color: rgba(240, 248, 255, 0.847);
 }
 
 .aCard .fa-road.dark {
     color: aliceblue;
+}
+
+.mainHeading.dark {
+    color: rgba(240, 248, 255, 0.847);
+}
+
+.mainHeading h1.dark {
+    border: 3px solid #232323ec;
+}
+
+.mainHeading span.dark {
+    background-color: #232323ec;
 }
