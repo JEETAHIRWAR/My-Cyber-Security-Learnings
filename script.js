@@ -6,25 +6,27 @@ document.addEventListener("DOMContentLoaded", function () {
         const listgridView = document.querySelector(".listgridView");
         const checkbox = document.getElementById("checkbox");
         const search = document.querySelector(".search-input");
-        const logo = document.querySelectorAll(".logo, name, .fa-hat-cowboy");
+        const logo = document.querySelectorAll(".logo, name, .fa-hat-cowboy, a");
         const card = document.querySelectorAll(".card");
         const title = document.querySelectorAll(".title h3");
         const para = document.querySelectorAll(".para");
         const ul = document.querySelectorAll(".list ul li");
         const h4 = document.querySelectorAll("h4");
-        const aCard = document.querySelectorAll(".aCard");
+        const aCard = document.querySelectorAll(".aCard, .rowColor");
         const h2 = document.querySelectorAll("h2");
         const smallPara = document.querySelectorAll(".smallPara");
         const faRoad = document.querySelectorAll(".fa-road");
         const mainHeading = document.querySelectorAll(".mainHeading, h1, span");
+
+
 
         mainHeading.forEach(element => {
             element.classList.toggle("dark");
         });
 
 
-        logo.forEach(logo => {
-            logo.classList.toggle("dark");
+        logo.forEach(element => {
+            element.classList.toggle("dark");
         })
 
 
@@ -43,8 +45,8 @@ document.addEventListener("DOMContentLoaded", function () {
         })
 
 
-        aCard.forEach(aCard => {
-            aCard.classList.toggle("dark");
+        aCard.forEach(element => {
+            element.classList.toggle("dark");
         })
 
 

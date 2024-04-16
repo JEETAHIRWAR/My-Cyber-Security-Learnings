@@ -42,6 +42,10 @@ body {
     margin-top: 30px;
 }
 
+.imgColor {
+    color: #111;
+}
+
 
 .custom-table .row1 {
     background-color: #F1EAFF;

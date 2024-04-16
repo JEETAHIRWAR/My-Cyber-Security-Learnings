@@ -135,6 +135,7 @@ body {
     flex-direction: column;
     justify-content: center;
     margin-bottom: 20px;
+    margin-right: 20px;
     border-radius: 10px;
     background-color: #F1EAFF;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
@@ -222,6 +223,6 @@ body {
 }
 
 .courseInfo .footer ul li:hover {
-    color: F1EAFF;
+    color: #F1EAFF;
     transition: color 0.3s;
 }
